@@ -194,11 +194,3 @@ a {
 .zag{
     color: black;
 }
-@media screen and (max-width: 992px) {
-    .nav-list{
-        display: none;
-    }
-    .hide{
-        display: block;
-    }
-}
